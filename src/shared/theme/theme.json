@@ -1,0 +1,22 @@
+{
+    "light": {
+        "theme": "light",
+        "background": "#FAF0E6",
+        "surface": "#EECBAD",
+        "primary": "#EECBAD",
+        "primaryDark": "brown",
+        "primaryLight": "#FCF4E9",
+        "onView": "black",
+        "onViewFaint": "#9e9e9e"
+    },
+    "dark": {
+        "theme": "dark",
+        "background": "#212121",
+        "surface": "#424242",
+        "primary": "#5d4037",
+        "primaryDark": "#321911",
+        "primaryLight": "#8b6b61",
+        "onView": "#FAFAFA",
+        "onViewFaint": "#9e9e9e"
+    }
+}
